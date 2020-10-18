@@ -6,7 +6,7 @@ the motors speed with PWM (Pulse Width Modulation).
 ![alt text](https://github.com/VincentP05/R3-Training-Task-1/blob/main/L293D_Layout.png "IC pinlayout")
 
 ### TINKERCAD DOCUMENTS:
-[TINERCAD](https://www.tinkercad.com/things/dY2yLzBlQaX "TINKERCAD page")
+[TINKERCAD](https://www.tinkercad.com/things/dY2yLzBlQaX "TINKERCAD page")
 
 My Design:
 ![alt text](https://github.com/VincentP05/R3-Training-Task-1/blob/main/R3SoftwareModule.png "IC pinlayout")
